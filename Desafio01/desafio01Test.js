@@ -8,6 +8,4 @@ describe('Función `calcularParesDesdeHasta`', function() {
     
   });
 
-
-
 document.write(calcularParesDesdeHasta(10, 50));
